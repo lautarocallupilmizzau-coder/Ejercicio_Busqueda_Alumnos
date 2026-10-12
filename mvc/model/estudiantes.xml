@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes>
+    <estudiante>
+        <id>1</id>
+        <name>Juan Pérez</name>
+        <age>21</age>
+        <email>juan.perez@example.com</email>
+    </estudiante>
+    <estudiante>
+        <id>2</id>
+        <name>María López</name>
+        <age>22</age>
+        <email>maria.lopez@example.com</email>
+    </estudiante>
+    <estudiante>
+        <id>3</id>
+        <name>Carlos García</name>
+        <age>23</age>
+        <email>carlos.garcia@example.com</email>
+    </estudiante>
+    <estudiante>
+        <id>4</id>
+        <name>Sofía Fernández</name>
+        <age>20</age>
+        <email>sofia.fernandez@example.com</email>
+    </estudiante>
+</estudiantes>
